@@ -15,10 +15,16 @@ f{
 	 font-size: 6px;
   font-weight: 400;
 }
-h1, h2, h3, h4, h5 {
+h1, h2, h4, h5 {
   font-family: "Muli", sans-serif;
   font-weight: 1.9;
   color: #034544;
+}
+
+h3{
+	font-family: "Muli", sans-serif;
+  font-weight: 1.9;
+color: #fff;	
 }
 
 h6 {
