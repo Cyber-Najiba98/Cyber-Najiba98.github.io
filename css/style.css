@@ -22,9 +22,9 @@ h1, h2, h4, h5 {
 }
 
 h3{
-	font-family: "Muli", sans-serif;
+  font-family: "Muli", sans-serif;
   font-weight: 1.9;
-color: #fff;	
+  color: #fff;	
 }
 
 h6 {
@@ -47,7 +47,7 @@ h2 {
 
 h3 {
   font-size: 20px;
-  color: #034544;
+  color: #fff;
   
 }
 
